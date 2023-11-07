@@ -17,7 +17,7 @@ public class ArregloFacturas {
 		fac.add(new Factura("100", "Louis Viton", 2000, 194.8));
 		fac.add(new Factura("100", "Jorge", 1200, 138.7));
     	fac.add(new Factura("100", "MacDonals", 1500, 174.3));
-    	fac.add(new Factura("100", "Algomas", 1100, 102.9));
+    	fac.add(new Factura("100", "Algomás", 1100, 102.9));
 	}
 	public void adicionar(Factura f) {
 		fac.add(f);
